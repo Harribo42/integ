@@ -12,5 +12,7 @@
  *
  */
 
+// Custom bootstrap variables must be set or imported *before* bootstrap.
 @import "font-awesome";
+@import "fontastic";
 @import "bootstrap";
